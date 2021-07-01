@@ -1,7 +1,7 @@
-#Sat Apr 24 17:56:37 PDT 2021
-base.0=C\:\\Users\\ruo20\\AndroidStudioProjects\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
-path.0=classes.dex
-renamed.0=classes.dex
+#Thu Jul 01 09:44:55 PDT 2021
 base.1=C\:\\Users\\ruo20\\AndroidStudioProjects\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\ruo20\\AndroidStudioProjects\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
